@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 //Edited first.java from Eclipse
-=======
-Edited first.java
->>>>>>> refs/remotes/origin/master
+
 package testPackage;
 
 public class First {
