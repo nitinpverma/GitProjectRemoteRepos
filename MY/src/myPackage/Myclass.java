@@ -83,6 +83,9 @@ public class Myclass {
 		myclass.setDummyChange2("nitin");
 		
 		System.out.println("Dummy print added by Nitin");
+		
+		System.out.println("Dummy print added by Nitin in new workspace");
+		
 
 	}
 
