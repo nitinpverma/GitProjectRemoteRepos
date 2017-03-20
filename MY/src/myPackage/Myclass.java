@@ -26,4 +26,9 @@ public class Myclass {
 
 	}
 
+	
+	public void testMethod(){
+		System.out.println("test method created by Nitin");
+	}
+	
 }
