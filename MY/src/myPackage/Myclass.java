@@ -10,6 +10,10 @@ package myPackage;
  *
  */
 public class Myclass {
+	/**
+	 * change added by Nikhil
+	 */
+	private String dummyChange1="";
 
 	/**
 	 * 
@@ -26,9 +30,4 @@ public class Myclass {
 
 	}
 
-	
-	public void testMethod(){
-		System.out.println("test method created by Nitin");
-	}
-	
 }
