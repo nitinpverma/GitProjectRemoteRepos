@@ -3,6 +3,7 @@
  */
 
 //All comments deleted
+//Comment in master branch
 package myPackage;
 
 
