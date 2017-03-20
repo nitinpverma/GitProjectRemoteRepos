@@ -10,7 +10,7 @@ package myPackage;
  *
  */
 public class Myclass {
-	
+	private String newVar="happy gitting";
 	
 	 /* change added by Nitin
 	 */
@@ -20,6 +20,7 @@ public class Myclass {
 	//Nikhil from git
 	private String var5="new idea";	
 	
+	private String var6="new idea";
 	public String getVarNew() {
 		return varNew;
 	}
