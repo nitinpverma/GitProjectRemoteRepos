@@ -10,6 +10,10 @@ package myPackage;
  *
  */
 public class Myclass {
+	/**
+	 * change added by Nikhil
+	 */
+	private String dummyChange1="";
 
 	/**
 	 * 
