@@ -8,6 +8,13 @@ package testPackage;
 
 public class First {
 
+	public class testThread=new Thread()
+			{
+		public void run()
+		{
+			this.getCurrentThread().wait(500);
+		}
+			};
 	public First() {
 		// TODO Auto-generated constructor stub
 	}
