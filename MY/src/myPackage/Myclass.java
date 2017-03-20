@@ -10,6 +10,15 @@ package myPackage;
  *
  */
 public class Myclass {
+	
+	
+	 /* change added by Nitin
+	 */
+	private String dummyChange2="";
+
+	/**
+	
+	
 	/**
 	 * change added by Nikhil
 	 */
@@ -18,7 +27,10 @@ public class Myclass {
 	/**
 	 * 
 	 */
-	public Myclass() {
+	
+	
+	
+		public Myclass() {
 		// TODO Auto-generated constructor stub
 	}
 

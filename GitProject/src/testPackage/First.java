@@ -20,4 +20,9 @@ public class First {
 System.out.println("Hello Nitin v");
 	}
 
+	
+	public SecondMethod() {
+		// TODO Auto-generated constructor stub
+	}
+	
 }
