@@ -17,7 +17,9 @@ public class Myclass {
 	private String varNew="";
 	private String var3="new idea";
 	private String var4="new idea";
-
+	//Nikhil from git
+	private String var5="new idea";	
+	
 	public String getVarNew() {
 		return varNew;
 	}
